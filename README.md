@@ -6,7 +6,7 @@ python3 agent.py
 ```
 
 ## carreteras:
-For incidents on state highways (DGT) (Spain only)
+For incidents on state highways (DGT) (Spain roads only)
 
 ## contamintantes:
 For data in the last hour of pollutants / station in Madrid and associated filters.
