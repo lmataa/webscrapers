@@ -55,9 +55,9 @@ def station_contaminant():
     b = input_cont() 
     begining()
     print("Los sensores de " + contaminants[b] + " en " + stations[a] + " indican:")
-    uds = uds(contaminants[b])
-    pol = pollution[stations[a]][contamintants[b]]
-    print(pol + " " + uds)
+    ud = uds(contaminants[b])
+    pol = pollution[stations[a]][contaminants[b]]
+    print(pol + " " + ud)
     ending()
 
 def stations_():    
